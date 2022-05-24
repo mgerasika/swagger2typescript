@@ -1,0 +1,14 @@
+{
+	"sqltools.connections": [
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5432,
+			"driver": "PostgreSQL",
+			"name": "postgress-stay-for-night",
+			"database": "stay-for-night",
+			"username": "postgres",
+			"password": "postgres"
+		}
+	]
+}
