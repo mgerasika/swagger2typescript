@@ -1,7 +1,7 @@
 #for local testing/or local docker container
-image=docker-stay-for-night-nestjs
-container=docker-stay-for-night-nestjs
-port=3133
+image=docker-swagger2typescrpt
+container=docker-swagger2typescript
+port=3139
 #should coming from git commit hash
 version=1
 
