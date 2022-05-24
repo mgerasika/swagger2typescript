@@ -13,4 +13,4 @@ RUN yarn build
 FROM node:16-alpine
 WORKDIR /app
 COPY --from=builder /app ./
-CMD ["npm", "run", "start:prod"]
+CMD ["npm", "run", "start"]
